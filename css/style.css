@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+  }
+  #main{
+    background-color: beige;
+  }
+  #img-div{
+    display: inline-block;
+    max-width:90%;
+    padding-left: 120px; 
+    padding-right: 120px;
+    background-color: white;
+    
+  }
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #content{
+    width: 40%;
+    margin: 0 auto;
+  }
+  #tribute-info{
+    padding: 40px auto;
+    margin: 50px auto;
+  }
+  li{
+    text-align: left;
+    margin-bottom: 20px;
+  }
